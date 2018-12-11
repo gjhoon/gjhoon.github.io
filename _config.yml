@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Stuuuuuudy"
 title_separator          : "-"
 name                     : "JinHoon"
@@ -106,7 +106,7 @@ author:
   name             : "JinHoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Student"
-  location         : "Korea"
+  location         : "Republic of Korea"
   email            : "wls2579@naver.com"
   links:
     - label: "Email"
