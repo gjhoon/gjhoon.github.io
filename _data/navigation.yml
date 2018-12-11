@@ -10,3 +10,24 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+docs:
+  - title: "Algorithm"
+    children:
+      - title: "Problem"
+        url: /algorithms/problems/
+      - title: "Theory"
+        url: /algorithms/theory/
+  - title: "Development"
+    children:
+      - title: "Project"
+        url: /development/project/
+      - title: "Finished"
+        url: /development/finish/
+  - title: "Language"
+    children:
+      - title: "Javascript/Node"
+        url: /language/js/
+      - title: "python3"
+        url: /language/python3/
+      - title: "C#"
+        url: /language/csharp/
