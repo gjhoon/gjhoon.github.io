@@ -19,6 +19,9 @@
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
+    {% if site.docs %}
+      <p>docs 있음</p>
+    {% endif %}
   {% endif %}
   </div>
 {% endif %}

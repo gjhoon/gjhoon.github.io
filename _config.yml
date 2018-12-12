@@ -108,6 +108,7 @@ author:
   bio              : "Student"
   location         : "Republic of Korea"
   email            : "wls2579@naver.com"
+  facebook         : "test"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -294,7 +295,6 @@ defaults:
       comments: true
       share: true
       related: true
-defaults:
   # _docs
   - scope:
       path: ""
