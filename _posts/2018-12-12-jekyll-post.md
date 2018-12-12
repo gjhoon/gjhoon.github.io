@@ -4,6 +4,8 @@ title: Jekyll 포스트 작성하기
 date: 2018-12-12 10-9-00
 category: jekyll
 tags: jekyll
+sidebar:
+  nav: "docs"
 ---
 
 기본적으로 포스트는 자신의 블로그에 대한 폴더\_posts(없다면 생성)에 html이나 markdown 확장자를 가진 파일 이름을 YYYY-MM-DD-TITLE의 형식으로 저장하면 된다.
