@@ -22,7 +22,7 @@ docs:
     children:
       - title: "Javascript/Node"
         url: /language/js/
-      - title: "python3"
+      - title: "Python3"
         url: /language/python3/
       - title: "C#"
         url: /language/csharp/
