@@ -26,3 +26,9 @@ docs:
         url: /language/python3/
       - title: "C#"
         url: /language/csharp/
+  - title: "OTHER"
+    children:
+      - title: "Jekyll"
+        url: /other/jekyll/
+      - title: "Chat"
+        url: /other/chat/
