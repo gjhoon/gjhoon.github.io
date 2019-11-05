@@ -4,6 +4,8 @@ title: 블로그 시작
 date: 2018-12-12 00-12-00
 category: chat
 tags: chat
+sidebar:
+  nav: "docs"
 ---
 
 2018년 12월 12일
