@@ -32,3 +32,5 @@ docs:
         url: /other/jekyll/
       - title: "Chat"
         url: /other/chat/
+      - title: "VSCode"
+        url: /other/vscode/
